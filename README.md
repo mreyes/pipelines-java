@@ -1,4 +1,3 @@
-
 [![Build Status](https://dev.azure.com/TAP-BAP-Training/TAB-BAP%20Initiatives/_apis/build/status/mreyes.pipelines-java?branchName=master)](https://dev.azure.com/TAP-BAP-Training/TAB-BAP%20Initiatives/_build/latest?definitionId=1&branchName=master)
 
 
